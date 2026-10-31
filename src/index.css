@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Fredoka', cursive, sans-serif;
+  --font-sans: 'Nunito', sans-serif;
+  --color-teal-brand: #1F5C66;
+  --color-teal-dark: #143F46;
+  --color-teal-subtle: #EDF5F6;
+  --color-butter: #F6D55C;
+  --color-butter-dark: #E5BF35;
+  --color-butter-subtle: #FFFDF0;
+  --color-ice-white: #F8FAFC;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: 'Fredoka', cursive, sans-serif;
+}

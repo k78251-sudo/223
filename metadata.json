@@ -1,0 +1,6 @@
+{
+  "name": "Focinho Feliz - Banho e Tosa Pet Shop",
+  "description": "Agendamento acolhedor e descomplicado de banho, tosa e cuidados especiais para cães e gatos no Focinho Feliz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
